@@ -1,5 +1,9 @@
 # automatica_test
 
+### Для админки:
+Логин: admin
+Пароль: admin
+
 Технологии
 * Python
 * Django, Django REST Framework (DRF)
