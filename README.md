@@ -2,7 +2,7 @@
 
 Технологии
 * Python
-* Django REST Framework (DRF)
+* Django, Django REST Framework (DRF)
 * PostgreSQL
 
 ## Как запустить проект:
