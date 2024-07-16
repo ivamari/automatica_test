@@ -11,7 +11,7 @@
 
 `https://github.com/ivamari/blog_test.git`
 
-`cd blog_test`
+`cd automatica_test`
 
 ### Cоздать и активировать виртуальное окружение:
 
