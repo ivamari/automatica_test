@@ -1,8 +1,8 @@
 # automatica_test
 
 ### Для админки:
-Логин: admin
-Пароль: admin
+логин: admin, 
+пароль: admin
 
 Технологии
 * Python
